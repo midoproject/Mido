@@ -9,3 +9,21 @@ npm install
 
 # Start the server
 npm start
+
+Routes
+
+/ → Main page (HTML)
+
+/api/status → JSON API status
+
+
+Tech Stack
+
+Node.js
+
+Express.js
+
+
+License
+
+MIT © Ujang Kurniasandi
