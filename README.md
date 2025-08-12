@@ -24,21 +24,21 @@ npm install
 
 # Start the server
 npm start
+```
+## 🌐 Routes
 
-🌐 Routes
+• / → Main page (HTML)
 
-/ → Main page (HTML)
-
-/api/status → JSON API status
-
-
-🛠 Tech Stack
-
-- Node.js
-
-- Express.js
+• /api/status → JSON API status
 
 
-📄 License
+## 🛠 Tech Stack
+
+• Node.js
+
+• Express.js
+
+
+## 📄 License
 
 MIT © MIDO
