@@ -1,28 +1,11 @@
-# Awesome Project
+# 🚀 Mido Project
 
-A minimal starter repo to get you moving fast.
+Mido Project is a simple **Node.js + Express** starter app for learning and demo purposes.
 
-## Quick start
+## Quick Start
 ```bash
-# 1) Install deps
+# Install dependencies
 npm install
 
-# 2) Run
-npm run start
-```
-
-## Project structure
-```
-.
-├── src/
-│   └── index.js
-├── .gitignore
-├── LICENSE
-├── package.json
-└── README.md
-```
-
-## Next steps
-- Edit `README.md` to describe your project.
-- Rename the repo in GitHub after you upload.
-- Add more scripts, tests, or CI as needed.
+# Start the server
+npm start
