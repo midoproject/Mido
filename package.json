@@ -1,12 +1,13 @@
 {
   "name": "mido",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Simple Express.js app for GitHub demo",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
     "start": "node src/index.js"
   },
-  "engines": {
-    "node": ">=18"
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
